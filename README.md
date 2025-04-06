@@ -1,6 +1,6 @@
 <!-- Anaalitappi - Täydellinen opas mielihyvään -->
 
-# AnaaliTappi
+# ANAALITAPPI
 
 Täältä löydät parhaat valinnat nautintoon!
 
